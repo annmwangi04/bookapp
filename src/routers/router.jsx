@@ -5,7 +5,7 @@ import Login from "../components/Login";
 import Register from "../components/Register";
 import CartPage from "../pages/books/CartPage";
 import CheckoutPage from "../pages/books/CheckoutPage";
-import SingleBook from "../pages/books/singleBook";
+import SingleBook from "../pages/books/SingleBook";
 import PrivateRoute from "./privateRoute";
 
 const router = createBrowserRouter([
